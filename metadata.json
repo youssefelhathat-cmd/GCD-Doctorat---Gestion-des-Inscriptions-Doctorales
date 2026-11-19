@@ -1,0 +1,6 @@
+{
+  "name": "GCD Doctorat - Gestion des Inscriptions Doctorales",
+  "description": "Plateforme GCD de gestion intégrale du cursus et de l'inscription au doctorat conforme au diagramme de flux UML.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
